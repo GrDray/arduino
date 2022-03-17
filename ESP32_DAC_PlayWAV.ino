@@ -14,13 +14,13 @@
 	(c) B. Dring 2018, Licensed under GNU GPL 3.0 and later, under this license absolutely no warranty given
 	
 */
-
-#include "ForceBeWithYou.h"
+#include "SoundData.h"
+//#include "ForceBeWithYou.h"
 #include "Game_Audio.h"
 
 Game_Audio_Class GameAudio(25,0); 
 
-Game_Audio_Wav_Class pmWav(SoundData);                            
+Game_Audio_Wav_Class pmWav(SoundData_wav);                            
                                       
 
 void setup() {
