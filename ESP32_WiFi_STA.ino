@@ -1,7 +1,7 @@
 #include<WiFi.h>
 
-const char ssid[]="GGray"; //修改為你家的WiFi網路名稱
-const char pwd[]="ipno7227"; //修改為你家的WiFi密碼
+const char ssid[]="LAC"; //修改為你家的WiFi網路名稱
+const char pwd[]="LACpaulpierce34"; //修改為你家的WiFi密碼
 
 void setup() {
   Serial.begin(115200);
