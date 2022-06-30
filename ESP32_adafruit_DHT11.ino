@@ -6,7 +6,7 @@
 
   Works great with Adafruit Huzzah32 Feather and Breakout Board:
     https://www.adafruit.com/product/3405
-    https://www.adafruit.com/products/4172
+    https://www.adafruit.com/products/ 4172 
 
   Adafruit invests time and resources providing this open source code,
   please support Adafruit and open-source hardware by purchasing
